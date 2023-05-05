@@ -1,4 +1,4 @@
 { 
-  "skipIntro": false,
+  "skipIntro": true,
   "enableAllFeature": true
 }
